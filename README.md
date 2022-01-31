@@ -1,4 +1,4 @@
-Hello everyone. In this project i've made a clone of Starbucks Landing Page. <br>
+Hello everyone. In this project i've made a clone of Starbucks's Landing Page. <br>
 
 Access it through the following link: https://starbucks-landing-page-caio.netlify.app/ <br>
 
